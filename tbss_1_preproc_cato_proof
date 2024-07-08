@@ -69,7 +69,7 @@
 #   fsl@innovation.ox.ac.uk quoting Reference Project 9564, FSL.
 
 
-tbss='/mnt/SandC-2/analyses/sleep_eeg_dwi/dti/tbss/tbss_all/'
+tbss='folder_directory'
 cd $tbss
 
 export LC_ALL=C
