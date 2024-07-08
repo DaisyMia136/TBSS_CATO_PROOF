@@ -67,7 +67,7 @@
 #   University Innovation ("OUI"), the technology transfer company of the
 #   University, to negotiate a licence. Contact details are:
 #   fsl@innovation.ox.ac.uk quoting Reference Project 9564, FSL.
-tbss='/mnt/SandC-2/analyses/sleep_eeg_dwi/dti/tbss/tbss_all/'
+tbss='folder_directory'
 cd $tbss
 
 export LC_ALL=C
